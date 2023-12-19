@@ -1,0 +1,186 @@
+body,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    font-family: Arial, sans-serif;
+    padding: 1rem;
+    display: flex;
+    justify-content: left
+}
+
+.navbar a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 0.75rem;
+    text-decoration: none;
+    border: 1px solid #ccc;
+}
+
+.navbar a.first {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.navbar a.last {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#revou {
+    margin-right: 1000px;
+    width: 75px;
+    border-radius: 50%;
+
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    margin-left: 50px;
+    margin-bottom: 400px;
+}
+.latihan {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+#number {
+    text-align: center;
+    margin-bottom: 400px;
+}
+
+
+#Headquarter {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.Kota {
+    text-align: left;
+    justify-content: left;
+}
+
+.jakarta {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #000;
+    background-color: transparent;
+    margin-bottom: 10px;
+    display: inline-block;
+    margin-left: 150px;
+}
+.bandung {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #000;
+    background-color: transparent;
+    margin-bottom: 10px;
+    display: inline-block;
+    margin-left: 100px;
+}
+.surabaya {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #000;
+    background-color: transparent;
+    margin-bottom: 10px;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.jakartad {
+    margin-left: 175px;
+    font-size: 50px;
+    font-weight: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.bandungd {
+    margin-left: 125px;
+    font-size: 50px;
+    font-weight: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.surabayad {
+    margin-left: 100px;
+    font-size: 50px;
+    font-weight: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.text{
+    margin-bottom: 100px;
+}
+.Message {
+    margin-top: 100px;
+    margin-left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300px;
+    font-size: 50px;
+}
+/* label{
+    margin-left: 105px;
+}
+.nama{
+    margin-left: 50px;
+    border-radius: 25%;
+}
+
+.date{
+    margin-left: 50px;
+    border-radius: 25%;
+}
+
+ 
+
+.pesan {
+    margin-left: 50px;
+    border-radius: 25%;
+}
+
+#submit{
+   margin-left: 50px;
+}
+   
+
+form .area {
+    justify-content: right;
+    float: right;
+} */
+/* 
+#Message {
+    margin-left: 100px;
+    margin-top: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 50px;
+} */
+#name {
+    width: 15%;
+}
+
+#submit {
+    margin-bottom: 10%;
+}
+
+#Calvin {
+    text-transform: uppercase;
+    display: flex;
+    justify-content: right;
+    margin-bottom: 10%;
+}
